@@ -1,1 +1,36 @@
-
+{
+  "en": {
+    "CurrentAura": "Your current aura is:",
+    "RemoveItem": "Remove",
+    "ExitDescription": "Exits Aura Tracker.",
+    "WelcomeMsg": "Welcome back!",
+    "AddDescription": "Adds aura to your current aura.",
+    "SettingsMenu": {
+      "AboutItem": "About Aura Tracker",
+      "ResetDataItem": "Reset Data"
+    },
+    "AddItem": "Add",
+    "RemoveDescription": "Removes aura from your current aura.",
+    "ExitItem": "Exit",
+    "SettingsItem": "Settings",
+    "SettingsDescription": "The settings of Aura Tracker.",
+    "BackItem": "Back"
+  },
+  "fr": {
+    "CurrentAura": "Ton aura actuelle est:",
+    "RemoveItem": "Enlever",
+    "ExitDescription": "Quitte Aura Tracker.",
+    "WelcomeMsg": "Bienvenue à nouveau!",
+    "AddDescription": "Ajoute de l’aura à ton aura actuelle.",
+    "SettingsMenu": {
+      "AboutItem": "À propos d'Aura Tracker",
+      "ResetDataItem": "Réinitialiser les données"
+    },
+    "AddItem": "Ajouter",
+    "RemoveDescription": "Enlève de l’aura à ton aura actuelle.",
+    "ExitItem": "Quitter",
+    "SettingsItem": "Paramètres",
+    "SettingsDescription": "Les paramètres d'Aura Tracker.",
+    "BackItem": "Retour"
+  }
+}
